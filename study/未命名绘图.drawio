@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="第 1 页" id="Np8bi9JPimDiJibCcqhF">
+    <mxGraphModel dx="1213" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9ST-YmeEC97j8JEJY6oc-10" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="50" as="sourcePoint" />
+            <mxPoint x="210" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ST-YmeEC97j8JEJY6oc-11" value="parent" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="9ST-YmeEC97j8JEJY6oc-10" connectable="0" vertex="1">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ST-YmeEC97j8JEJY6oc-12" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="9ST-YmeEC97j8JEJY6oc-10" connectable="0" vertex="1">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ST-YmeEC97j8JEJY6oc-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Association&lt;/h1&gt;&lt;p&gt;关联关系，表示整体和成员的关系。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="30" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9ST-YmeEC97j8JEJY6oc-14" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="60" y="260" as="sourcePoint" />
+            <mxPoint x="220" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ST-YmeEC97j8JEJY6oc-15" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="60" y="160" as="sourcePoint" />
+            <mxPoint x="220" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ST-YmeEC97j8JEJY6oc-16" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Aggregation&lt;/h1&gt;&lt;p&gt;一种特殊的关联关系，表示整体和成员的关系。成员可以脱离整体而单独存在。&lt;/p&gt;&lt;p&gt;如汽车和轮子就是聚合关系，轮子可以脱离汽车而单独存在。&lt;/p&gt;&lt;p&gt;一般在整体的构造函数中直接输入成员对象。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="130" width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9ST-YmeEC97j8JEJY6oc-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Composition&lt;/h1&gt;&lt;p&gt;一种特殊的关联关系&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;，表示整体和部分的关系。&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;整体和成员是共存的，成员不能脱离整体而单独存在。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;如&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="270" width="340" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
