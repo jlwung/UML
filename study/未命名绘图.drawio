@@ -183,7 +183,7 @@
             <mxPoint x="1230" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nl9GUaGNiuAFn2NMpmx5-51" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;继承/泛化关系&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;父子类&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Nl9GUaGNiuAFn2NMpmx5-51" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;继承/泛化关系&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;抽象到具体的关系&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-706" y="30" width="340" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Nl9GUaGNiuAFn2NMpmx5-52" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;关联关系&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;整体和部分的关系&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
